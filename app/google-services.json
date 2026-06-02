@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "600140611924",
+    "project_id": "aoplayer-8b864",
+    "storage_bucket": "aoplayer-8b864.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:600140611924:android:d4e027775578e6cf3a48c1",
+        "android_client_info": {
+          "package_name": "com.skyrecord.aoplayer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3VCS1JbbCkdnyV6ImiYhvvtzR96kGvo8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:600140611924:android:6792a46e81709fdf3a48c1",
+        "android_client_info": {
+          "package_name": "com.skyrecords.aoplayer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3VCS1JbbCkdnyV6ImiYhvvtzR96kGvo8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
